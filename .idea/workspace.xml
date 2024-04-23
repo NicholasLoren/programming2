@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="975adc8c-9061-4a04-b835-b6df3fb7b35c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DF1/ExceptionsHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DF1/TextAnalysisTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ecommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ecommerce/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ecommerce/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ecommerce/orders/Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming 2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,26 +26,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "NicholasLoren"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NicholasLoren&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NicholasLoren/programming2.git",
+    "accountId": "ed3a27d3-d8ef-4e8a-9184-5987357f2986"
   }
 }]]></component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="224e2703-103e-4d20-b2e5-10f34380bff2" />
-        <option name="url" value="https://github.com/NicholasLoren/programming2.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/DF1/TextAnalysisTool.java" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2f8EsTbJIeu191CMYEpZmUKIlvf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ecommerce.executor": "Run",
     "Application.ExceptionsHandling.executor": "Run",
     "Application.TextAnalysisTool.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -64,7 +64,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
