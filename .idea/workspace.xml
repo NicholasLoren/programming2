@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="975adc8c-9061-4a04-b835-b6df3fb7b35c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecommerce/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecommerce/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ecommerce/orders/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/ProducerConsumerProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/ProducerConsumerSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/ThreadDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +32,12 @@
     &quot;assignee&quot;: &quot;NicholasLoren&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/NicholasLoren/programming2.git",
-    "accountId": "ed3a27d3-d8ef-4e8a-9184-5987357f2986"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NicholasLoren/programming2.git&quot;,
+    &quot;accountId&quot;: &quot;ed3a27d3-d8ef-4e8a-9184-5987357f2986&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/DF1/TextAnalysisTool.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -56,7 +56,11 @@
   "keyToString": {
     "Application.Ecommerce.executor": "Run",
     "Application.ExceptionsHandling.executor": "Run",
+    "Application.ProducerConsumerProblem.executor": "Run",
+    "Application.ProducerConsumerSolution.executor": "Run",
     "Application.TextAnalysisTool.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.ThreadDemo2.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
