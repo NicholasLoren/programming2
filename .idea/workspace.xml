@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="975adc8c-9061-4a04-b835-b6df3fb7b35c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/clock/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DF2/ARM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DF2/AppletFundamentals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DF2/BufferedReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DF2/BufferedStringReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DF2/CopyFileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DF2/ImageFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DF2/ShowFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DF2/TinyEditor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,25 +60,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ARM.executor": "Run",
+    "Application.BufferedReaderExample.executor": "Run",
+    "Application.BufferedStringReader.executor": "Run",
     "Application.Clock.executor": "Run",
+    "Application.CopyFileData.executor": "Run",
     "Application.Ecommerce.executor": "Run",
     "Application.ExceptionsHandling.executor": "Run",
     "Application.FlipCardExample.executor": "Run",
+    "Application.ImageFileManager.executor": "Run",
     "Application.ProducerConsumerProblem.executor": "Run",
     "Application.ProducerConsumerSolution.executor": "Run",
+    "Application.ShowFileExample.executor": "Run",
     "Application.TextAnalysisTool.executor": "Run",
     "Application.ThreadDemo.executor": "Run",
     "Application.ThreadDemo2.executor": "Run",
+    "Application.TinyEditor.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

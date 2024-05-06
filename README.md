@@ -65,8 +65,8 @@ Use the following template to update your progress in the course:
 - [ ] Yet to Start
 
 ### Chapter 4: Threads and Concurrency
-- [ ] Completed
-- [x] In Progress
+- [x] Completed
+- [ ] In Progress
 - [ ] Yet to Start
 
 ### Chapter 5: Advanced String Manipulation
@@ -76,7 +76,7 @@ Use the following template to update your progress in the course:
 
 ### Chapter 6: Java I/O and File Handling
 - [ ] Completed
-- [ ] In Progress
+- [x] In Progress
 - [ ] Yet to Start
 
 ### Chapter 7: Collections Framework
