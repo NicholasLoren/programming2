@@ -75,8 +75,8 @@ Use the following template to update your progress in the course:
 - [x] Yet to Start
 
 ### Chapter 6: Java I/O and File Handling
-- [ ] Completed
-- [x] In Progress
+- [x] Completed
+- [ ] In Progress
 - [ ] Yet to Start
 
 ### Chapter 7: Collections Framework
